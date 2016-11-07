@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rivido",
+    "active": true,
+    "level": 110,
+    "ilvl": 871,
+  },
+  {
+    "name": "Quarzon",
+    "active": true,
+    "level": 110,
+    "ilvl": 868,
+  },
+  {
+    "name": "Gicaboss",
+    "active": false,
+    "level": 110,
+    "ilvl": 865,
+  },
+  {
+    "name": "Zarakaz",
+    "active": true,
+    "level": 110,
+    "ilvl": 870,
+  },
+  {
+    "name": "Karxar",
+    "active": true,
+    "level": 110,
+    "ilvl": 868,
+  },
+  {
+    "name": "Demonsnigh ",
+    "active": true,
+    "level": 110,
+    "ilvl": 871,
+  },
+  {
+    "name": "Legowang",
+    "active": true,
+    "level": 110,
+    "ilvl": 869,
+  },
+  {
+    "name": "Lumylar",
+    "active": true,
+    "level": 110,
+    "ilvl": 864,
+  },
+  {
+    "name": "Estrela",
+    "active": false,
+    "level": 110,
+    "ilvl": 866,
+  },
+  {
+    "name": "Soulflash",
+    "active": true,
+    "level": 110,
+    "ilvl": 872,
+  },
+]
