@@ -9,7 +9,7 @@ permalink: /dfh/
 # Gildia
 Raidująca gildia na serwerze Lightbringer.
 
-![logo_gildii(]https://s-media-cache-ak0.pinimg.com/736x/3d/45/bd/3d45bd545a26e550a3a301dcbaa8a379.jpg){:class="img-responsive"}
+![logo_gildii](https://s-media-cache-ak0.pinimg.com/736x/3d/45/bd/3d45bd545a26e550a3a301dcbaa8a379.jpg){:class="img-responsive"}
 
 
 You can find the source code for Jekyll at
