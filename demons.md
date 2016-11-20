@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Członkowie
+permalink: /czlonkowie/
 ---
 
 <ul>
