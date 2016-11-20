@@ -2,7 +2,7 @@
 layout: post
 title:  "Raidowanie w tygodniu"
 date:   2016-11-20 17:39:00 +0100
-categories: jekyll update
+categories: update
 ---
 Na stronie WoW'a w zakładce [Legionu] znajdziecie wszystkie nowe informacje dotyczące dungów oraz raid'ów z tego dodatku!
 
